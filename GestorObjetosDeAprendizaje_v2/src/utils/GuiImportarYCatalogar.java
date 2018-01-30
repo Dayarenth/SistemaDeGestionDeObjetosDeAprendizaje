@@ -294,21 +294,5 @@ public class GuiImportarYCatalogar extends javax.swing.JFrame implements ActionL
 					jtaDescripcion.setText("");
 					jtaPalabrasClave.setText("");
 				}
-				else
-				{
-					JOptionPane.showMessageDialog(this, "Algo salio mal vuelva a intentarlo mas tarde");
-				}
-			}
-			else
-			{
-				JOptionPane.showMessageDialog(this, error, "ERROR DE REGISTRO", JOptionPane.ERROR_MESSAGE);
-			}
-		}
-		
-		if(accion.equals("cancelar"))
-		{
-			this.setVisible(false);
-		}
 
-	}
 }
