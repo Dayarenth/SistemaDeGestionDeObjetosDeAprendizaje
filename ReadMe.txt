@@ -1,22 +1,33 @@
 Synopsis
-At the top of the file there should be a short introduction and/ or overview that explains what the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
-
-Code Example
-Show what the library does as concisely as possible, developers should be able to figure out how your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
+El proyecto permitira a los usuarios crear y gestionar objetos de aprendizaje, con el fin de ayudar a la actividad de enseñanza en todas las areas posibles.
 
 Motivation
-A short description of the motivation behind the creation and maintenance of the project. This should explain why the project exists.
+La motivacion del proyecto surge a partir de la idea de utilizacion de software libre, colaborativo y de calidad, ademas de ser un apoyo para la enseñanza.
 
-Installation
-Provide code examples and explanations of how to get the project.
 
-API Reference
-Depending on the size of the project, if it is small and simple enough the reference docs can be added to the README. For medium size to larger projects it is important to at least provide a link to where the API reference docs live.
+Objetivo Principal:
 
-Tests
-Describe and show how to run the tests with code examples.
+    Desarrollar una Aplicación Web que apoye a la construcción, almacenamiento e intercambio de objetos de aprendizaje.
 
-Contributors
-Let people know how they can dive into the project, include important links to things like issue trackers, irc, twitter accounts if applicable.
+Objetivos Especificos:
 
-License
+    Estudiar los Objetos de Aprendizaje, para determinar sus componentes y las técnicas de construcción.
+    Desarrollar una aplicación informática de software libre para la gestión de Objetos de Aprendizaje.
+    Desarrollar una aplicación web utilizando herramientas y metodología de desarrollo de software libre, que permita el almacenamiento, catalogación, difusión y uso de Objetos de Aprendizaje.
+
+Resumen:
+
+El presente sistema es un recurso lo suficientemente útil para gestionar `Objetos de Aprendizaje`. Su función principal es brindar un confiable repositorio de Objetos de Aprendizaje. Permite Importar, Catalogar y Buscar dichos objetos. El sistema cuenta con gestión de usuarios. Los cuales son: Administrador, Profesores y Estudiantes. La principal función del administrador es gestionar el óptimo funcionamiento del Sistema además conceder permisos a Profesores. Los cuales se registran en el sistema, posteriormente receptan un correo electrónico con sus credenciales, las cuales permiten acceder al sistema con sus respectivos privilegios. Los profesores pueden Importar, Buscar y Comentar objetos. Los estudiantes también se registran en el Sistema y pueden descargar `Objetos de Aprendizaje` para estudiarlos. 
+Finalmente, el sistema provee enlaces a herramientas para apoyar el aprendizaje.
+
+Dentro de la carpeta Raiz del Repositorio encontrara los respectivos manuales.
+
+    Manual de Instalación 
+
+    Manual de Usuario 
+
+Integrantes:
+
+    Jose Criollo
+    Margarita Vasco
+    Edison Tamayo
