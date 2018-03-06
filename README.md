@@ -12,3 +12,6 @@ Para el correcto funcionamiento del proyecto se requiere:
 * PHP 5.4.3
 * Mysql 5.5.24
 
+### Instalacion:
+* Descargar el proyecto directamente desde el siguiente enlace 
+
