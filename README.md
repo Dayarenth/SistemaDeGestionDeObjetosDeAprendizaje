@@ -19,6 +19,10 @@ Para el correcto funcionamiento del proyecto se requiere:
 * Abrir un navegador cualquiera y se escribe la siguiente ruta: loacalhost/sgoa
 * Continuar como lo indica el [manual de usuario](https://github.com/Dayarenth/SistemaDeGestionDeObjetosDeAprendizaje/manual_de_usuario.pdf)
 
+### Demo del proyecto en funcionamiento:
+Para probar las funcionalidades de acuerdo al [manual de usuario](https://github.com/Dayarenth/SistemaDeGestionDeObjetosDeAprendizaje/manual_de_usuario.pdf) se puede dirigir al siguiente [enlace]
+(jacr.000webhostapp.com/sgoa/)
+
 ## Autores
 * Criollo Jose
 * Tamayo Edison
