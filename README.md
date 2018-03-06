@@ -17,8 +17,10 @@ Para el correcto funcionamiento del proyecto se requiere:
 * Es necesario cargar la base de datos que se va a utilizar, para esto se abre localhost y se busca phpmyadmin, en este sistema vamos a la opcion importar y selecinamos el archivo sgoa.sql contenido en la descarga, click en continuar para importar la base de datos.
 * Copiarel contenido de la carpeta excepto sgoa.sql a la ruta de instalcion de wamp/www/ 
 * Abrir un navegador cualquiera y se escribe la siguiente ruta: loacalhost/sgoa
-* Continuar como lo indica el [manual ed usuario]()
+* Continuar como lo indica el [manual de usuario](https://github.com/Dayarenth/SistemaDeGestionDeObjetosDeAprendizaje/manual_de_usuario.pdf)
 
 ## Autores
-
+* Criollo Jose
+* Tamayo Edison
+* Vasco Elsa
 
